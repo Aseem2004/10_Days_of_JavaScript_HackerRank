@@ -10,4 +10,5 @@
 <li><a href="https://www.hackerrank.com/challenges/js10-switch/problem?isFullScreen=true">Day 2: Conditional Statements: Switch</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-loops/problem?isFullScreen=true">Day 2: Loops</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-arrays/problem?isFullScreen=true">Day 3: Arrays</li>
+<li><a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem?isFullScreen=true">Day 3: Try, Catch, and Finally</li>
 </ul>
