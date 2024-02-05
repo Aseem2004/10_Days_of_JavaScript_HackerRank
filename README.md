@@ -9,4 +9,5 @@
 <li><a href="https://www.hackerrank.com/challenges/js10-if-else/problem?isFullScreen=true">Day 2: Conditional Statements: If-Else</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-switch/problem?isFullScreen=true">Day 2: Conditional Statements: Switch</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-loops/problem?isFullScreen=true">Day 2: Loops</li>
+<li><a href="https://www.hackerrank.com/challenges/js10-arrays/problem?isFullScreen=true">Day 3: Arrays</li>
 </ul>
