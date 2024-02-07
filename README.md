@@ -14,4 +14,5 @@
 <li><a href="https://www.hackerrank.com/challenges/js10-throw/problem?isFullScreen=true">Day 3: Throw</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-objects/problem?isFullScreen=true">Day 4: Create a Rectangle Object</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-count-objects/problem?isFullScreen=true">Day 4: Count Objects</li>
+<li><a href="https://www.hackerrank.com/challenges/js10-class/problem?isFullScreen=true">Day 4: Classes</li>
 </ul>
