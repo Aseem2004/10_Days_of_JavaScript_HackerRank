@@ -12,4 +12,5 @@
 <li><a href="https://www.hackerrank.com/challenges/js10-arrays/problem?isFullScreen=true">Day 3: Arrays</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-try-catch-and-finally/problem?isFullScreen=true">Day 3: Try, Catch, and Finally</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-throw/problem?isFullScreen=true">Day 3: Throw</li>
+<li><a href="https://www.hackerrank.com/challenges/js10-objects/problem?isFullScreen=true">Day 4: Create a Rectangle Object</li>
 </ul>
