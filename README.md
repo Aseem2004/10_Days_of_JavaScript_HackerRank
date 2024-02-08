@@ -17,4 +17,5 @@
 <li><a href="https://www.hackerrank.com/challenges/js10-class/problem?isFullScreen=true">Day 4: Classes</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-inheritance/problem?isFullScreen=true">Day 5: Inheritance</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-template-literals/problem?isFullScreen=true">Day 5: Template Literals</li>
+<li><a href="https://www.hackerrank.com/challenges/js10-arrows/problem?isFullScreen=true">Day 5: Arrow Functions</li>
 </ul>
