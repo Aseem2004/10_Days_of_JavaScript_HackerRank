@@ -19,4 +19,5 @@
 <li><a href="https://www.hackerrank.com/challenges/js10-template-literals/problem?isFullScreen=true">Day 5: Template Literals</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-arrows/problem?isFullScreen=true">Day 5: Arrow Functions</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-bitwise/problem?isFullScreen=true">Day 6: Bitwise Operators</li>
+<li><a href="https://www.hackerrank.com/challenges/js10-date/problem?isFullScreen=true">Day 6: JavaScript Dates</li>
 </ul>
