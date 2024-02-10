@@ -23,5 +23,5 @@
 <li><a href="https://www.hackerrank.com/challenges/js10-regexp-1/problem?isFullScreen=true">Day 7: Regular Expressions I</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-regexp-2/problem?isFullScreen=true">Day 7: Regular Expressions II</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-regexp-3/problem?isFullScreen=true">Day 7: Regular Expressions III</li>
-<li><a href="https://www.hackerrank.com/challenges/js10-create-a-button">Day 8: Create a Button</li>
+<li><a href="https://www.hackerrank.com/challenges/js10-create-a-button?isFullScreen=true&hr_b=1">Day 8: Create a Button</li>
 </ul>
