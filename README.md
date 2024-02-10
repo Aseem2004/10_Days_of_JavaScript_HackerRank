@@ -21,4 +21,5 @@
 <li><a href="https://www.hackerrank.com/challenges/js10-bitwise/problem?isFullScreen=true">Day 6: Bitwise Operators</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-date/problem?isFullScreen=true">Day 6: JavaScript Dates</li>
 <li><a href="https://www.hackerrank.com/challenges/js10-regexp-1/problem?isFullScreen=true">Day 7: Regular Expressions I</li>
+<li><a href="https://www.hackerrank.com/challenges/js10-regexp-2/problem?isFullScreen=true">Day 7: Regular Expressions II</li>
 </ul>
