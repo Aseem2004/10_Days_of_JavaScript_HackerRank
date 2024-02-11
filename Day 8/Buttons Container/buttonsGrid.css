@@ -1,0 +1,13 @@
+#btns{
+    width:75%;
+    display:block;
+    overflow:hidden;
+}
+
+#btns button{
+    display:block;
+    width:30%;
+    height:48px;
+    font-size:24px;  
+    float:left;
+} 
