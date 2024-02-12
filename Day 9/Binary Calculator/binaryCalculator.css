@@ -1,0 +1,33 @@
+body{
+    width:33%; 
+}
+  
+#res{
+    background-color:lightgray;
+    border:2px solid black;
+    height:48px;
+    font-size:20px;
+    display:block;
+    box-sizing:border-box;
+}
+
+#btns #btn0, #btns #btn1{
+    background-color:lightgreen;
+    color:brown;
+}
+
+#btns #btnClr, #btns #btnEql{
+    background-color:darkgreen;
+    color:white;
+}
+
+#btns button{
+    background: black;
+    color: red;
+    display: block;
+    width: 25%;
+    height: 36px;
+    font-size: 18px;
+    margin:0px;
+    float: left;
+}
