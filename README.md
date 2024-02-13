@@ -7,7 +7,7 @@
 <p>HackerRank's 10 Days of JavaScript is a curated series of programming challenges designed to enhance your JavaScript coding skills. It covers a range of topics from basic syntax and data types to advanced concepts like object-oriented programming and asynchronous programming.</p>
 </section>
 <section>
-<h2>Tabulation:</h2>
+<h2>Tabulation</h2>
 <p>This repository contains solutions for each day of the 10 Days of JavaScript challenge. Each day's solution is stored in a separate file named according to the challenge day.</p>
 <ul>
 <li><a href="https://www.hackerrank.com/challenges/js10-hello-world/problem?isFullScreen=true">Day 0: Hello, World!</li>
@@ -45,4 +45,11 @@
 <h2>Contributing</h2>
 <p>Contributions to this repository are welcome! If you have alternative solutions, improvements, or suggestions for better solutions, feel free to fork this repository, make your changes, and submit a pull request. Please ensure your code follows good coding practices and includes appropriate comments for clarity.</p>
 </section>
-
+<section>
+<h2>About the Author</h2>
+<p>This repository is maintained by Aseem Jain. Feel free to reach out with any questions, feedback, or suggestions.</p>
+</section>
+<footer>
+<p>Thank You for visiting!<br>
+Happy coding! 🚀</p>
+</footer>
