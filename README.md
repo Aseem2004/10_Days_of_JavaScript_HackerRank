@@ -1,4 +1,12 @@
-# 10_Days_of_JavaScript_HackerRank
+# HackerRank 10 Days of JavaScript solutions
+<section>
+<p>Welcome to the repository containing solutions for the 10 Days of JavaScript challenge on HackerRank. This repository contains JavaScript solutions for each day's challenge, providing a comprehensive resource for those seeking to understand or verify solutions for the HackerRank challenges.</p>
+</section>
+<section>
+<h2>About HackerRank 10 Days of JavaScript</h2>
+<p>HackerRank's 10 Days of JavaScript is a curated series of programming challenges designed to enhance your JavaScript coding skills. It covers a range of topics from basic syntax and data types to advanced concepts like object-oriented programming and asynchronous programming.</p>
+</section>
+
 <h2>Tabulation:</h2>
 <ul>
 <li><a href="https://www.hackerrank.com/challenges/js10-hello-world/problem?isFullScreen=true">Day 0: Hello, World!</li>
