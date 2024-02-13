@@ -37,3 +37,12 @@
 <li><a href="https://www.hackerrank.com/challenges/js10-binary-calculator?isFullScreen=true&hr_b=1">Day 9: Binary Calculator</li>
 </ul>
 </section>
+<section>
+<h2>How to Use</h2>
+<p>To use this repository, simply navigate to the file corresponding to the challenge you are interested in. Each file contains the JavaScript code for solving the respective challenge. You can copy the code, study it, or use it to verify your own solutions.</p>
+</section>
+<section>
+<h2>Contributing</h2>
+<p>Contributions to this repository are welcome! If you have alternative solutions, improvements, or suggestions for better solutions, feel free to fork this repository, make your changes, and submit a pull request. Please ensure your code follows good coding practices and includes appropriate comments for clarity.</p>
+</section>
+
